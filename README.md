@@ -6,6 +6,6 @@
 * 
 * 
 ## License
-Current repository is reserved under MIT license
+Current repository is reserved under
 [MIT License](https://github.com/angular/angular.js/blob/master/LICENSE) .    
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
